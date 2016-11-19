@@ -134,7 +134,7 @@ diminishedScale[0], diminishedScale[7], diminishedScale[2], diminishedScale[9], 
 
 
 
-# Create an array for all Major Arpeggios (through the 13th note)
+# Create an Example of an array that iterates the full arpeggio range within a single mode through all twelve keys.
 
 allMajorArpeggioFull = []
 
