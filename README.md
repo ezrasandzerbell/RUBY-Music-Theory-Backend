@@ -1,6 +1,6 @@
 # _AUDIOMANCY_
 
-#### _Music Theory Crypto-Perceptron, 11.19.16_
+#### _Music Theory Crypto-Perceptron, 2.14.17_
 
 #### By _**Ezra Sandzer-Bell**_
 
